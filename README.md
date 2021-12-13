@@ -2,13 +2,13 @@
 
 本项目是用来记录自己在研究 JNDI 安全过程中收集到的优秀内容，包括优秀的工具代码技巧或详细深入分析的漏洞文章等资源。JNDI实乃万恶之源！JNDI - The Root of all Evil。作者：[0e0w](https://github.com/0e0w/HackJNDI)
 
-本项目创建于2021年12月11日，最近的一次更新时间为2021年12月12日。
+本项目创建于2021年12月11日，最近的一次更新时间为2021年12月13日。
 
-- [01-JNDI基础知识]()
-- [02-JNDI利用工具]()
-- [03-JNDI上层建筑]()
-- [04-JNDI漏洞分析]()
-- [05-JNDI参考资源]()
+- [01-JNDI基础知识](https://github.com/0e0w/HackJNDI#01-jndi%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
+- [02-JNDI利用工具](https://github.com/0e0w/HackJNDI#02-jndi%E5%88%A9%E7%94%A8%E5%B7%A5%E5%85%B7)
+- [03-JNDI上层建筑](https://github.com/0e0w/HackJNDI#03-jndi%E4%B8%8A%E5%B1%82%E5%BB%BA%E7%AD%91)
+- [04-JNDI漏洞分析](https://github.com/0e0w/HackJNDI#04-jndi%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90)
+- [05-JNDI参考资源](https://github.com/0e0w/HackJNDI#05-jndi%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
 
 ## 01-JNDI基础知识
 
@@ -32,6 +32,8 @@
 - [ ] https://github.com/veracode-research/rogue-jndi
 - [ ] https://github.com/quentinhardy/jndiat
 - [ ] https://github.com/p1n93r/AttackJNDI
+- [ ] https://github.com/kxcode/JNDI-Exploit-Bypass-Demo
+- [ ] https://github.com/bradfitz/jndi
 
 ## 03-JNDI上层建筑
 
@@ -44,3 +46,6 @@
 - Fastjson
 
 ## 05-JNDI参考资源
+
+[![Stargazers over time](https://starchart.cc//0e0w/HackJNDI.svg)](https://starchart.cc/0e0w/HackJNDI)
+
