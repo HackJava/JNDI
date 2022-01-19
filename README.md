@@ -21,6 +21,7 @@
 - https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE.pdf
 - http://blog.topsec.com.cn/java-jndi%E6%B3%A8%E5%85%A5%E7%9F%A5%E8%AF%86%E8%AF%A6%E8%A7%A3/
 - https://github.com/longofo/rmi-jndi-ldap-jrmp-jmx-jms
+- https://www.cnblogs.com/jony-it/p/10585150.html
 
 ## 02-JNDI利用工具
 
@@ -38,6 +39,7 @@
 - [ ] https://github.com/zu1k/ldap-log
 - [ ] https://github.com/mbechler/marshalsec
 - [ ] https://github.com/LeakIX/l9fuzz
+- [ ] https://github.com/zyn3rgy/LdapRelayScan
 
 ## 03-JNDI上层建筑
 
