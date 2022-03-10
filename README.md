@@ -2,7 +2,7 @@
 
 本项目是用来记录自己在研究 JNDI 安全过程中收集到的优秀内容，包括优秀的工具代码技巧或详细深入分析的漏洞文章等资源。JNDI实乃万恶之源！JNDI - The Root of all Evil。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年12月11日，最近的一次更新时间为2022年2月20日。
+本项目创建于2021年12月11日，最近的一次更新时间为2022年3月10日。
 
 - [01-JNDI基础知识](https://github.com/0e0w/HackJNDI#01-jndi%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
 - [02-JNDI利用工具](https://github.com/0e0w/HackJNDI#02-jndi%E5%88%A9%E7%94%A8%E5%B7%A5%E5%85%B7)
@@ -42,6 +42,8 @@
 - [ ] https://github.com/zyn3rgy/LdapRelayScan
 - [ ] https://github.com/wyzxxz/jndi_tool
 - [ ] https://github.com/ffadd/JNDIKit
+- [ ] https://github.com/exp1orer/JNDI-Inject-Exploit
+- [ ] https://github.com/WhiteHSBG/JNDIExploit
 
 ## 03-JNDI上层建筑
 
