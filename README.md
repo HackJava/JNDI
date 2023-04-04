@@ -43,7 +43,7 @@
 - [ ] https://github.com/wyzxxz/jndi_tool
 - [ ] https://github.com/ffadd/JNDIKit
 - [ ] https://github.com/exp1orer/JNDI-Inject-Exploit
-- [ ] https://github.com/WhiteHSBG/JNDIExploit
+- [x] https://github.com/WhiteHSBG/JNDIExploit
 - [ ] https://github.com/welk1n/JNDI-Injection-Bypass
 - [ ] https://github.com/achuna33/MYJNDIExploit
 - [ ] https://github.com/Bl0omZ/JNDIEXP
