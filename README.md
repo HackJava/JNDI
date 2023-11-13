@@ -57,6 +57,7 @@
 - [ ] https://github.com/r00tSe7en/JNDIMonitor
 - [ ] https://github.com/l3yx/JNDI-Injection-LDAP-Deserialization
 - [ ] https://github.com/Hypdncy/JNDIBypassExploit
+- [ ] https://github.com/qi4L/JYso
 
 ## 03-JNDI上层建筑
 
